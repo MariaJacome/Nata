@@ -1,4 +1,4 @@
 # Nata
 Natalia Lareo's portfolio
 
-DUMMY COMMENT 2
+DUMMY COMMENT
